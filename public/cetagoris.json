@@ -1,0 +1,34 @@
+[
+  {
+    "id": "0",
+    "name": "Traditional Wear"
+  },
+  {
+    "id": "1",
+    "name": "Western Wear"
+  },
+  {
+    "id": "2",
+    "name": "Swim & Beachwear"
+  },
+  {
+    "id": "3",
+    "name": "Winter & Seasonal Wear"
+  },
+  {
+    "id": "4",
+    "name": "Beauty & Groomng"
+  },
+  {
+    "id": "5",
+    "name": "Juwellery"
+  },
+  {
+    "id": "6",
+    "name": "Personal Care Applicances"
+  },
+  {
+    "id": "7",
+    "name": "Foot wear"
+  }
+]

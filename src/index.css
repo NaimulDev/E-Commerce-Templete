@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  background-color: #eff3ff;
+}
+active {
+  @apply font-medium tracking-wide text-cyan-600 transition-colors duration-200;
+}

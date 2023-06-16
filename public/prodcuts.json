@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/56rvQyf/imageone.jpg",
+      "productName": "Red Leather Gucci Bag",
+      "oldPrice": "7300 Bdt",
+      "newPrice": "4500 Bdt"
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/59w3Hhq/image7.jpg",
+      "productName": "Black Leather Gucci Shoes",
+      "oldPrice": "5500 Bdt",
+      "newPrice": "4200 Bdt"
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/LC8ZJMk/image3.jpg",
+      "productName": "Blue Denim Jacket",
+      "oldPrice": "2500 Bdt",
+      "newPrice": "1800 Bdt"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/LC8ZJMk/image3.jpg",
+      "productName": "White Sneakers",
+      "oldPrice": "3200 Bdt",
+      "newPrice": "2800 Bdt"
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/59w3Hhq/image7.jpg",
+      "productName": "Pink Crossbody Bag",
+      "oldPrice": "4100 Bdt",
+      "newPrice": "3600 Bdt"
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/f9B85TG/img-1-removebg-preview.png",
+      "productName": "Striped T-shirt",
+      "oldPrice": "1800 Bdt",
+      "newPrice": "1200 Bdt"
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/59w3Hhq/image7.jpg",
+      "productName": "Brown Leather Belt",
+      "oldPrice": "2200 Bdt",
+      "newPrice": "1800 Bdt"
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/f9B85TG/img-1-removebg-preview.png",
+      "productName": "Printed Scarf",
+      "oldPrice": "1500 Bdt",
+      "newPrice": "1000 Bdt"
+    }
+  ]
+}
